@@ -47,6 +47,7 @@ body{
           text-align:center;
           margin-top:10px;
       }
+      
       .navbar li:hover{
           color:cornflowerblue;
       }
@@ -55,6 +56,7 @@ body{
           width:50%;
           border-radius:10px;
           margin-top:10px ;
+          display:none;
       }
       .menu{
           margin-top:5px;
