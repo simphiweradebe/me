@@ -43,7 +43,7 @@ body{
 
   @media(max-width:600px){
       .navbar ul li{
-          display:block ;
+   
           text-align:center;
           margin-top:10px;
       }
